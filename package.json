@@ -4,6 +4,6 @@
   "private": true,
   "description": "Isolated, never-deployed DevSecOps coursework vulnerability demonstration",
   "dependencies": {
-    "lodash": "4.17.15"
+    "lodash": "4.17.21"
   }
 }
