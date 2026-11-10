@@ -1,0 +1,9 @@
+{
+  "name": "a9-dependabot-security-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Isolated, never-deployed DevSecOps coursework vulnerability demonstration",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
